@@ -1,0 +1,21 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <hash_map>
+#include <utility>
+#include <algorithm>
+#include <queue>
+#include <fstream>
+#include <iomanip>
+#include <map>
+#include <set>
+#include <sstream>
+#include <unordered_map>
+
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
+#include <io.h>  
+#include <direct.h>  
+#include <stdlib.h>
+#include <ctype.h>
